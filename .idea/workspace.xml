@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f48e1d4c-6598-4015-860e-0859f1554167" name="Default" comment="" />
+    <list default="true" id="f48e1d4c-6598-4015-860e-0859f1554167" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cloud_generator.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cloud_generator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab3_task/cloud_generator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
@@ -49,6 +51,15 @@
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1225">
+              <caret line="103" column="12" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -73,6 +84,7 @@
         <option value="$PROJECT_DIR$/lab3_task/clusterizer.py" />
         <option value="$PROJECT_DIR$/lab3_task/cloud_generator.py" />
         <option value="$PROJECT_DIR$/lab3_task/preprocessor.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -154,6 +166,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1015" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973601" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32992035" />
@@ -212,6 +225,13 @@
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="103" column="12" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
         </state>
       </provider>
     </entry>
