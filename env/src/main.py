@@ -31,7 +31,7 @@ if (mongo_url == None):
 connection = pymongo.MongoClient(mongo_url)
 db = connection['sc_lab']
 
-CLUSTERS = 10
+CLUSTERS = 15
 
 current_dir = os.path.dirname(__file__)
 morph = pymorphy2.MorphAnalyzer()
